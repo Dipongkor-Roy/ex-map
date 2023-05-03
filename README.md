@@ -56,14 +56,4 @@ This is a quiz website that contains questions related to web development. The q
 
 You can access the quiz website by visiting the following URL: https://quiz-app-1aec50.netlify.app. Once you access the website, you can create an account or login using your existing credentials. From there, you can start taking the quiz and test your knowledge of web development.
 
-## Contributing
 
-If you would like to contribute to the development of this quiz website, please follow the steps outlined in the CONTRIBUTING.md file. We welcome all contributions and feedback.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-Special thanks to " ZIM " for their contributions to the development of this project.
